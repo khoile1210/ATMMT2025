@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RSAandPlayFair")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8c289882c4a11f6692e70b1ec5798c776024bea")]
 [assembly: System.Reflection.AssemblyProductAttribute("RSAandPlayFair")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RSAandPlayFair")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
